@@ -1,0 +1,14 @@
+C:\Users\jucus\Documents\LPR_2025\Tarefas_LPR\Aula_04\Exercicio03\bin\Debug\net9.0\Exercicio03.exe
+C:\Users\jucus\Documents\LPR_2025\Tarefas_LPR\Aula_04\Exercicio03\bin\Debug\net9.0\Exercicio03.deps.json
+C:\Users\jucus\Documents\LPR_2025\Tarefas_LPR\Aula_04\Exercicio03\bin\Debug\net9.0\Exercicio03.runtimeconfig.json
+C:\Users\jucus\Documents\LPR_2025\Tarefas_LPR\Aula_04\Exercicio03\bin\Debug\net9.0\Exercicio03.dll
+C:\Users\jucus\Documents\LPR_2025\Tarefas_LPR\Aula_04\Exercicio03\bin\Debug\net9.0\Exercicio03.pdb
+C:\Users\jucus\Documents\LPR_2025\Tarefas_LPR\Aula_04\Exercicio03\obj\Debug\net9.0\Exercicio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jucus\Documents\LPR_2025\Tarefas_LPR\Aula_04\Exercicio03\obj\Debug\net9.0\Exercicio03.AssemblyInfoInputs.cache
+C:\Users\jucus\Documents\LPR_2025\Tarefas_LPR\Aula_04\Exercicio03\obj\Debug\net9.0\Exercicio03.AssemblyInfo.cs
+C:\Users\jucus\Documents\LPR_2025\Tarefas_LPR\Aula_04\Exercicio03\obj\Debug\net9.0\Exercicio03.csproj.CoreCompileInputs.cache
+C:\Users\jucus\Documents\LPR_2025\Tarefas_LPR\Aula_04\Exercicio03\obj\Debug\net9.0\Exercicio03.dll
+C:\Users\jucus\Documents\LPR_2025\Tarefas_LPR\Aula_04\Exercicio03\obj\Debug\net9.0\refint\Exercicio03.dll
+C:\Users\jucus\Documents\LPR_2025\Tarefas_LPR\Aula_04\Exercicio03\obj\Debug\net9.0\Exercicio03.pdb
+C:\Users\jucus\Documents\LPR_2025\Tarefas_LPR\Aula_04\Exercicio03\obj\Debug\net9.0\Exercicio03.genruntimeconfig.cache
+C:\Users\jucus\Documents\LPR_2025\Tarefas_LPR\Aula_04\Exercicio03\obj\Debug\net9.0\ref\Exercicio03.dll
