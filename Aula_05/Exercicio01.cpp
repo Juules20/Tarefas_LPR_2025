@@ -4,11 +4,11 @@ using namespace std;
 int main() {
 
     cout <<"\033[34m =================================================== \033[0m" << endl;
-    cout <<"\033[34m Exercico02_Aula04 \033[0m" << endl;
+    cout <<"\033[34m Exercico01_Aula05 \033[0m" << endl;
     cout <<"\033[34m =================================================== \033[0m" << endl;
 
     int quant,num;
-    int soma = 0; 
+    double soma = 0; 
     int i = 0;
     int contador = 0;
 
@@ -16,7 +16,7 @@ int main() {
     cin >> quant;
 
     while( i < quant ){
-        cout << "Digite um número: " << endl;
+        cout << "Digite um numero: " << endl;
         cin >> num;
 
         if( num % 2 == 0 ){
