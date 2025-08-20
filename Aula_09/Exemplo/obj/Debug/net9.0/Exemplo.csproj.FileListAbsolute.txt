@@ -1,0 +1,15 @@
+C:\Users\jucus\Documents\LPR_2025\Tarefas_LPR\Aula_09\Exemplo\bin\Debug\net9.0\Exemplo.exe
+C:\Users\jucus\Documents\LPR_2025\Tarefas_LPR\Aula_09\Exemplo\bin\Debug\net9.0\Exemplo.deps.json
+C:\Users\jucus\Documents\LPR_2025\Tarefas_LPR\Aula_09\Exemplo\bin\Debug\net9.0\Exemplo.runtimeconfig.json
+C:\Users\jucus\Documents\LPR_2025\Tarefas_LPR\Aula_09\Exemplo\bin\Debug\net9.0\Exemplo.dll
+C:\Users\jucus\Documents\LPR_2025\Tarefas_LPR\Aula_09\Exemplo\bin\Debug\net9.0\Exemplo.pdb
+C:\Users\jucus\Documents\LPR_2025\Tarefas_LPR\Aula_09\Exemplo\obj\Debug\net9.0\Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jucus\Documents\LPR_2025\Tarefas_LPR\Aula_09\Exemplo\obj\Debug\net9.0\Exemplo.AssemblyInfoInputs.cache
+C:\Users\jucus\Documents\LPR_2025\Tarefas_LPR\Aula_09\Exemplo\obj\Debug\net9.0\Exemplo.AssemblyInfo.cs
+C:\Users\jucus\Documents\LPR_2025\Tarefas_LPR\Aula_09\Exemplo\obj\Debug\net9.0\Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\jucus\Documents\LPR_2025\Tarefas_LPR\Aula_09\Exemplo\obj\Debug\net9.0\Exemplo.sourcelink.json
+C:\Users\jucus\Documents\LPR_2025\Tarefas_LPR\Aula_09\Exemplo\obj\Debug\net9.0\Exemplo.dll
+C:\Users\jucus\Documents\LPR_2025\Tarefas_LPR\Aula_09\Exemplo\obj\Debug\net9.0\refint\Exemplo.dll
+C:\Users\jucus\Documents\LPR_2025\Tarefas_LPR\Aula_09\Exemplo\obj\Debug\net9.0\Exemplo.pdb
+C:\Users\jucus\Documents\LPR_2025\Tarefas_LPR\Aula_09\Exemplo\obj\Debug\net9.0\Exemplo.genruntimeconfig.cache
+C:\Users\jucus\Documents\LPR_2025\Tarefas_LPR\Aula_09\Exemplo\obj\Debug\net9.0\ref\Exemplo.dll

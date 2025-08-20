@@ -12,3 +12,4 @@ C:\Users\jucus\Documents\LPR_2025\Tarefas_LPR\Aula_04\Exercicio01\obj\Debug\net9
 C:\Users\jucus\Documents\LPR_2025\Tarefas_LPR\Aula_04\Exercicio01\obj\Debug\net9.0\Exercicio01.pdb
 C:\Users\jucus\Documents\LPR_2025\Tarefas_LPR\Aula_04\Exercicio01\obj\Debug\net9.0\Exercicio01.genruntimeconfig.cache
 C:\Users\jucus\Documents\LPR_2025\Tarefas_LPR\Aula_04\Exercicio01\obj\Debug\net9.0\ref\Exercicio01.dll
+C:\Users\jucus\Documents\LPR_2025\Tarefas_LPR\Aula_04\Exercicio01\obj\Debug\net9.0\Exercicio01.sourcelink.json

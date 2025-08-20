@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mjq0NuwykI4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jucus\\Documents\\LPR_2025\\Tarefas_LPR\\Aula9_Dicionarios\\Aula9_DicionariosCpp\\Aula9_DicionariosCpp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jucus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.14\\microsoft.windowsdesktop.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\jucus\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.14\\microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\jucus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.14\\microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\jucus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.14\\microsoft.netcore.app.host.win-x64.8.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

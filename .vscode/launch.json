@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/jucus/Documents/LPR_2025/Tarefas_LPR",
-      "program": "c:/Users/jucus/Documents/LPR_2025/Tarefas_LPR/build/Debug/outDebug",
+      "cwd": "c:/Users/jucus/Documents/LPR_2025/Tarefas_LPR/Aula_07",
+      "program": "c:/Users/jucus/Documents/LPR_2025/Tarefas_LPR/Aula_07/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
