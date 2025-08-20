@@ -1,11 +1,11 @@
-✧ 📚 Tarefas - Linguagem de Programação (2025)
+# 📚 Tarefas - Linguagem de Programação (2025)
 
 Este repositório reúne as atividades desenvolvidas na disciplina **Linguagem de Programação - 2025**.  
 Cada tarefa está organizada em sua respectiva pasta, contendo o código-fonte e um README próprio com explicações de execução.
 
-≻⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯≺
+---
 
-✧ 📂 Estrutura do Repositório
+## 📂 Estrutura do Repositório
 
 ```bash
 Tarefas_LPR_2025/
@@ -21,9 +21,9 @@ Tarefas_LPR_2025/
 └── README.md
 ```
 
-≻⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯≺
+---
 
-✧ 🗂️ Índice
+## 🗂️ Índice
 
 - [Aula_04](/Aula04) — A aula tratou do tema Estruturas de Seleção em programação, mostrando como controlar o fluxo do código a
 partir de condições lógicas (verdadeiro ou falso).
@@ -35,9 +35,9 @@ eficiente e reutilizável.
 - [Aula 08](/Aula08) —
 - [Aula 09](/Aula09) —
 
-≻⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯≺
+---
 
-✧ 🚀 Como executar um exercício
+## 🚀 Como executar um exercício
 
 1. **Clonar o repositório**
    ```bash
@@ -51,15 +51,15 @@ eficiente e reutilizável.
 3. **Compilar/rodar (exemplos)**
    Siga as instruções específicas no README.md de cada exercício quando houver.
 
-≻⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯≺
+---
 
-✧ 🔧 Tecnologias & Ferramentas
+## 🔧 Tecnologias & Ferramentas
 
 - Linguagens: C e C++
 - Editor/IDE: VS Code 
 
-≻⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯≺
+---
 
-✧ 📩 Contato
+## 📩 Contato
 
 - GitHub: Juules20
