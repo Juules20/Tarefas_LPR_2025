@@ -25,15 +25,15 @@ Tarefas_LPR_2025/
 
 ## 🗂️ Índice
 
-- [Aula_04](/Aula04) — A aula tratou do tema Estruturas de Seleção em programação, mostrando como controlar o fluxo do código a
+- [Aula_04](/Aula_04) — A aula tratou do tema Estruturas de Seleção em programação, mostrando como controlar o fluxo do código a
 partir de condições lógicas (verdadeiro ou falso).
-- [Aula 05](/Aula05) — Nesta aula foram estudadas as estruturas de repetição, que permitem executar um mesmo trecho de código
+- [Aula 05](/Aula_05) — Nesta aula foram estudadas as estruturas de repetição, que permitem executar um mesmo trecho de código
 várias vezes enquanto uma condição for atendida.
-- [Aula 06](/Aula06) — Nesta aula foi abordado o conceito de funções como uma forma de programar de maneira mais organizada,
+- [Aula 06](/Aula_06) — Nesta aula foi abordado o conceito de funções como uma forma de programar de maneira mais organizada,
 eficiente e reutilizável.
-- [Aula 07](/Aula07) — Nesta aula foram introduzidas as variáveis compostas homogêneas, que permitem armazenar vários dados do mesmo tipo em uma única estrutura:
-- [Aula 08](/Aula08) — Nesta aula foi apresentado o conceito de variáveis compostas heterogêneas, destacando o uso de Structs em C# e C++.
-- [Aula 09](/Aula09) — Nesta aula foram estudadas estruturas de dados dinâmicas e flexíveis, indo além de vetores, matrizes e structs.
+- [Aula 07](/Aula_07) — Nesta aula foram introduzidas as variáveis compostas homogêneas, que permitem armazenar vários dados do mesmo tipo em uma única estrutura:
+- [Aula 08](/Aula_08) — Nesta aula foi apresentado o conceito de variáveis compostas heterogêneas, destacando o uso de Structs em C# e C++.
+- [Aula 09](/Aula_09) — Nesta aula foram estudadas estruturas de dados dinâmicas e flexíveis, indo além de vetores, matrizes e structs.
 
 ---
 
