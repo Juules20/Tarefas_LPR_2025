@@ -1,4 +1,4 @@
-# Aula 04 – Estruturas de seleção
+# Aula 05 – Estruturas de Repetição
 
 **Objetivo da aula:**  
 Explicar o conteúdo estudado nesta aula, apresentar conceitos principais e preparar para os exercícios.
@@ -25,9 +25,11 @@ Dentro desta aula há os seguintes exercícios:
 
 | Exercício | Descrição resumida |
 |------------|------------------|
-| Exercicio01 | Leitura de números e verificação do maior |
-| Exercicio02 | Condicional simples com notas escolares |
-| Exercicio03 | Uso de variáveis e operadores aritméticos |
+| Exercicio01 | Um algoritmo que calcula a média aritmética de um conjunto de números pares fornecidos pelo usuário. |
+| Exercicio02 | Um algoritmo de adivinhação de números. |
+| Exercicio03 | Um algoritmo que calcula a soma de vários números |
+| Exercicio04 | Calcule a soma dos dígitos do quadrado de um número. |
+| Exercicio05 | Simulação de um treinamento de Jedi |
 
 > Cada exercício possui seu próprio código-fonte e, opcionalmente, um README com instruções detalhadas.
 
