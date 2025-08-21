@@ -27,9 +27,9 @@ Dentro desta aula há os seguintes exercícios:
 
 | Exercício | Descrição resumida |
 |------------|------------------|
-| Exercicio01 | Leitura de números e verificação do maior |
-| Exercicio02 | Condicional simples com notas escolares |
-| Exercicio03 | Uso de variáveis e operadores aritméticos |
+| Exercicio01 | Leitura de números e verificação se é par ou não |
+| Exercicio02 | Leitura de números e verificação se são multiplos entre si |
+| Exercicio03 | Um programa que mostra as habilidades de um personagem criado pelo usuário |
 
 > Cada exercício possui seu próprio código-fonte e, opcionalmente, um README com instruções detalhadas.
 
