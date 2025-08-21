@@ -1,4 +1,4 @@
-# Aula 07 – Variáveis Compostas homogêneas
+# Aula 07 – Variáveis Compostas Homogêneas
 
 **Objetivo da aula:**  
 Explicar o conteúdo estudado nesta aula, apresentar conceitos principais e preparar para os exercícios.
