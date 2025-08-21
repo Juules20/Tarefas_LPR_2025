@@ -55,7 +55,7 @@ eficiente e reutilizável.
 
 ## 🔧 Tecnologias & Ferramentas
 
-- Linguagens: C e C++
+- Linguagens: C# e C++
 - Editor/IDE: VS Code 
 
 ---
