@@ -46,7 +46,7 @@ eficiente e reutilizável.
 
 2. **Acesar a aula e o exercício**
    ```bash
-   cd Aula01/Exercicio01
+   cd Aula_04/Exercicio01
 
 3. **Compilar/rodar (exemplos)**
    Siga as instruções específicas no README.md de cada exercício quando houver.
