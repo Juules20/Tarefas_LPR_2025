@@ -31,9 +31,9 @@ partir de condições lógicas (verdadeiro ou falso).
 várias vezes enquanto uma condição for atendida.
 - [Aula 06](/Aula06) — Nesta aula foi abordado o conceito de funções como uma forma de programar de maneira mais organizada,
 eficiente e reutilizável.
-- [Aula 07](/Aula07) —
-- [Aula 08](/Aula08) —
-- [Aula 09](/Aula09) —
+- [Aula 07](/Aula07) — Nesta aula foram introduzidas as variáveis compostas homogêneas, que permitem armazenar vários dados do mesmo tipo em uma única estrutura:
+- [Aula 08](/Aula08) — Nesta aula foi apresentado o conceito de variáveis compostas heterogêneas, destacando o uso de Structs em C# e C++.
+- [Aula 09](/Aula09) — Nesta aula foram estudadas estruturas de dados dinâmicas e flexíveis, indo além de vetores, matrizes e structs.
 
 ---
 
